@@ -1,9 +1,9 @@
-import House from "@/components/House";
+import Ball from "@/components/ObjBabylon";
 
 export default function HousePage() {
   return (
     <>
-      <House />
+      <Ball />
     </>
   );
 }

@@ -39,7 +39,7 @@ const objToBabyon = async (canvasId: string) => {
   }
 };
 
-export default function ObjBabylon() {
+export default function House() {
   const elementId = "renderCanvasObj";
   objToBabyon(elementId);
   return (

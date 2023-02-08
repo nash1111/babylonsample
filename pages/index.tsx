@@ -8,6 +8,8 @@ export default function Home() {
       <Link href="/ball"> <a>球体と平面</a> </Link>
       <br />
       <Link href="/kusoinakabuilding"> <a>家</a> </Link>
+      <br />
+      <Link href="/uploadgltf"> <a>GLTFファイルのアップロード</a> </Link>
     </>
   )
 }

@@ -4,6 +4,7 @@ export default function Ball() {
   return (
     <>
       <ObjBabylon />
+      映ってなかったらリロードしてください
     </>
   );
 }

@@ -1,7 +1,7 @@
 {
   "routes": [
     {
-      "source": "/kusoinakabuilding",
+      "src": "/kusoinakabuilding",
       "headers": { "cache-control": "s-maxage=1000" },
       "destination": "/kusoinakabuilding.html"
     }

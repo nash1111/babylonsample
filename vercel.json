@@ -4,6 +4,11 @@
       "src": "/kusoinakabuilding",
       "headers": { "cache-control": "s-maxage=1000" },
       "dest": "/kusoinakabuilding.html"
-    }
+    },
+    {
+        "src": "/square",
+        "headers": { "cache-control": "s-maxage=1000" },
+        "dest": "/square.html"
+      }
   ]
 }

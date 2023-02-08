@@ -1,9 +1,5 @@
 {
-  "routes": [
-    {
-      "src": "/rawhtml",
-      "headers": { "cache-control": "s-maxage=1000" },
-      "dest": "/index.html"
-    }
-  ]
-}
+    "rewrites": [
+      { "source": "/kusoinakabuilding", "destination": "/rawhtml/kusoinakabuilding.html" },
+    ]
+  }

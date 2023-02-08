@@ -1,5 +1,5 @@
 {
-  "rewrites": [
+  "routes": [
     {
       "source": "/kusoinakabuilding",
       "headers": { "cache-control": "s-maxage=1000" },

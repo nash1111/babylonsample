@@ -1,5 +1,8 @@
 {
-    "rewrites": [
-      { "source": "/kusoinakabuilding", "destination": "/rawhtml/kusoinakabuilding.html" },
-    ]
-  }
+  "rewrites": [
+    {
+      "source": "/kusoinakabuilding",
+      "destination": "/rawhtml/kusoinakabuilding.html"
+    }
+  ]
+}
